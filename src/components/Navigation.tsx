@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "./nav";
 const Navigation = () => {
   const [current, setCurrent] = useState("intro");
   const [isVisible, setIsVisible] = useState(false);
