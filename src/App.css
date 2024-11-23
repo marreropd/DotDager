@@ -3803,6 +3803,15 @@
     grid-template-columns: 1fr 1fr;
     
 }
+
+@media screen and (max-width: 800px) {
+    .swiper-container{
+        display: grid;
+        gap: 10px;
+        grid-template-columns: 1fr ;
+        
+    }
+}
  
  .testimonials .swiper-container {
      padding-bottom : var(--vspace-2_5);
@@ -4533,11 +4542,15 @@
     margin-inline: auto;
 }
 @media screen and (max-width: 800px) {
+    .lumberjack-title{
+        margin-inline:auto;
+        justify-content: center;
+        width: 65%;
+    }
     #lumberjack{
-        margin: auto;
-        width: 90%;
+        margin-inline:auto;
+        width: 50%;
         display: grid;
-        grid-template-rows: 1fr;
         grid-template-columns: 1fr ;
         align-items: center;
         justify-content: center;
