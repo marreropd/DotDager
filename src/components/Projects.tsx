@@ -1,7 +1,7 @@
 export const project1 = () => (
   <div id="modal-01">
     <div className="modal-popup">
-      <img src="src/assets/images/portfolio/gallery/g-fuji.jpg" alt="" />
+      <img src="g-fuji.jpg" alt="" />
 
       <div className="modal-popup__desc">
         <h5>Retro Camera</h5>
@@ -26,7 +26,7 @@ export const project1 = () => (
 export const project2 = () => (
   <div id="modal-02">
     <div className="modal-popup">
-      <img src="src/assets/images/portfolio/gallery/g-lamp.jpg" alt="" />
+      <img src="g-lamp.jpg" alt="" />
 
       <div className="modal-popup__desc">
         <h5>The White Lamp</h5>
@@ -50,7 +50,7 @@ export const project2 = () => (
 export const project3 = () => (
   <div id="modal-03">
     <div className="modal-popup">
-      <img src="src/assets/images/portfolio/gallery/g-rucksack.jpg" alt="" />
+      <img src="g-rucksack.jpg" alt="" />
 
       <div className="modal-popup__desc">
         <h5>Rucksuck</h5>
@@ -74,7 +74,7 @@ export const project3 = () => (
 export const project4 = () => (
   <div id="modal-04">
     <div className="modal-popup">
-      <img src="src/assets/images/portfolio/gallery/g-skaterboy.jpg" alt="" />
+      <img src="g-skaterboy.jpg" alt="" />
 
       <div className="modal-popup__desc">
         <h5>Since Day One</h5>
@@ -98,7 +98,7 @@ export const project4 = () => (
 export const project5 = () => (
   <div id="modal-05">
     <div className="modal-popup">
-      <img src="src/assets/images/portfolio/gallery/g-sanddunes.jpg" alt="" />
+      <img src="g-sanddunes.jpg" alt="" />
 
       <div className="modal-popup__desc">
         <h5>Sand Dunes</h5>
@@ -122,7 +122,7 @@ export const project5 = () => (
 export const project6 = () => (
   <div id="modal-06">
     <div className="modal-popup">
-      <img src="src/assets/images/portfolio/gallery/g-minimalismo.jpg" alt="" />
+      <img src="g-minimalismo.jpg" alt="" />
 
       <div className="modal-popup__desc">
         <h5>Minimalismo</h5>
