@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import "./nav";
 const Navigation = () => {
   const [current, setCurrent] = useState("intro");

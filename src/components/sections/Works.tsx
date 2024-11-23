@@ -22,11 +22,6 @@ export const Works = () => {
     setIsOpen(true);
   };
 
-  // Function to close the modal
-  const closeModal = () => {
-    setIsOpen(false);
-  };
-
   return (
     <section id="works" className="s-works target-section">
       <div className="row works-portfolio  fade-in-up" ref={registerElement}>
