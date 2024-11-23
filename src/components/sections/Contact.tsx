@@ -12,7 +12,7 @@ import SoundCloudPlayer from "../SoundCloudPlayer";
 const Contact = () => {
   const registerElement = useFadeInOnScroll();
   return (
-    <section id="contact" className="s-contact target-section">
+    <section id="contact">
       <div
         className="row contact-top  fade-in-left-to-right"
         ref={registerElement}

@@ -1,9 +1,25 @@
+import { useState } from "react";
+
 const SoundCloudPlayer = () => {
+  const [first, setFirst] = useState({
+    opacity: "0.85",
+    position: "absolute",
+    top: "-9999em",
+    visibility: "hidden",
+  } as any);
   return (
     <>
       <iframe
-        id="myIframeId"
-        style={{ opacity: "0.85" }}
+        style={first}
+        onLoad={() => {
+          setTimeout(() => {
+            setFirst({
+              opacity: "0.85",
+              display: "block",
+            });
+          }, 1300);
+        }}
+        // style="position: absolute; top: -9999em; visibility: hidden;"
         width="100%"
         height="300"
         scrolling="no"
