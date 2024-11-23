@@ -32,7 +32,7 @@ const Chanels = () => {
                 className="channel-container"
               >
                 <img
-                  src="src/assets/avatar.png"
+                  src="avatar.png"
                   alt="Author image"
                   className="channel-image"
                 />
@@ -50,7 +50,7 @@ const Chanels = () => {
                 className="channel-container"
               >
                 <img
-                  src="src/assets/dagermusic.jpg"
+                  src="dagermusic.jpg"
                   alt="Author image"
                   className="channel-image"
                 />
@@ -71,7 +71,7 @@ const Chanels = () => {
                 className="channel-container"
               >
                 <img
-                  src="src/assets/dagerclip.jpg"
+                  src="dagerclip.jpg"
                   alt="Author image"
                   className="channel-image"
                 />
@@ -92,7 +92,7 @@ const Chanels = () => {
                 className="channel-container"
               >
                 <img
-                  src="src/assets/dagerx.jpg"
+                  src="dagerx.jpg"
                   alt="Author image"
                   className="channel-image"
                 />

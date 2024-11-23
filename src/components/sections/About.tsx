@@ -15,7 +15,7 @@ const About = () => {
       <div className="row about-info wide" data-animate-block>
         <div className="column lg-6 md-12 about-info__pic-block">
           <img
-            src="src/assets/avatar.png"
+            src="avatar.png"
             alt=""
             className="about-info__pic avatar-filter fade-in-up"
             ref={registerElement}

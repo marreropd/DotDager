@@ -54,7 +54,7 @@ export const Works = () => {
                 onClick={() => openModal(project1())}
               >
                 <div className="folio-list__item-pic">
-                  <img src="src/assets/images/portfolio/fuji.jpg" alt="" />
+                  <img src="fuji.jpg" alt="" />
                 </div>
 
                 <div className="folio-list__item-text">
@@ -94,7 +94,7 @@ export const Works = () => {
                 onClick={() => openModal(project2())}
               >
                 <div className="folio-list__item-pic">
-                  <img src="src/assets/images/portfolio/lamp.jpg" alt="" />
+                  <img src="lamp.jpg" alt="" />
                 </div>
 
                 <div className="folio-list__item-text">
@@ -134,7 +134,7 @@ export const Works = () => {
                 onClick={() => openModal(project3())}
               >
                 <div className="folio-list__item-pic">
-                  <img src="src/assets/images/portfolio/rucksack.jpg" alt="" />
+                  <img src="rucksack.jpg" alt="" />
                 </div>
 
                 <div className="folio-list__item-text">
@@ -171,7 +171,7 @@ export const Works = () => {
             >
               <a className="folio-list__item-link" href="#modal-04">
                 <div className="folio-list__item-pic">
-                  <img src="src/assets/images/portfolio/skaterboy.jpg" alt="" />
+                  <img src="skaterboy.jpg" alt="" />
                 </div>
 
                 <div className="folio-list__item-text">
@@ -211,7 +211,7 @@ export const Works = () => {
                 onClick={() => openModal(project5())}
               >
                 <div className="folio-list__item-pic">
-                  <img src="src/assets/images/portfolio/sanddunes.jpg" />
+                  <img src="sanddunes.jpg" />
                 </div>
 
                 <div className="folio-list__item-text">
@@ -251,10 +251,7 @@ export const Works = () => {
                 onClick={() => openModal(project6())}
               >
                 <div className="folio-list__item-pic">
-                  <img
-                    src="src/assets/images/portfolio/minimalismo.jpg"
-                    alt=""
-                  />
+                  <img src="minimalismo.jpg" alt="" />
                 </div>
 
                 <div className="folio-list__item-text">

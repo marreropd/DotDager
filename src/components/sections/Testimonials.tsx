@@ -15,7 +15,7 @@ const Testimonials = () => {
           <div className="testimonial-slider__slide ">
             <div className="testimonial-slider__author">
               <img
-                src="src/assets/rick2.webp"
+                src="rick2.webp"
                 alt="Author image"
                 className="testimonial-slider__avatar"
               />
@@ -39,7 +39,7 @@ const Testimonials = () => {
           <div className="testimonial-slider__slide ">
             <div className="testimonial-slider__author">
               <img
-                src="src/assets/rick.webp"
+                src="rick.webp"
                 alt="Author image"
                 className="testimonial-slider__avatar"
               />
