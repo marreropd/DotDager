@@ -1,1 +1,1 @@
-Pickle Rick
+https://dot-dager-tau.vercel.app/
